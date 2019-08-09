@@ -129,8 +129,7 @@ LIRI asks the user to enter their name in a prompt. LIRI then asks to make a sel
 
    * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
-        (Screenshot)
-        ![image](assets\images\Sample_Song_Search.JPG)
+        ![image](./assets/images/Sample_Song_Search.JPG)
 
 
    * You will utilize the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
@@ -164,8 +163,7 @@ LIRI asks the user to enter their name in a prompt. LIRI then asks to make a sel
 
    * You'll use the `axios` package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
 
-      (Screenshot)
-      ![image](assets\images\Sample_Movie_Search.JPG)
+      ![image](./assets/images/Sample_Movie_Search.JPG)
 
 4. `node liri.js do-what-it-says`
 
@@ -175,7 +173,6 @@ LIRI asks the user to enter their name in a prompt. LIRI then asks to make a sel
 
      * Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
-     (Screenshot)
      ![image](./assets/images/Sample_Random_Search.JPG)
 
 5. In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
