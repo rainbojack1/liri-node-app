@@ -176,7 +176,7 @@ LIRI asks the user to enter their name in a prompt. LIRI then asks to make a sel
      * Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
      (Screenshot)
-     ![image](.\assets\images\Sample_Random_Search.JPG)
+     ![image](./assets/images/Sample_Random_Search.JPG)
 
 5. In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
 
