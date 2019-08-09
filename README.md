@@ -113,8 +113,7 @@ LIRI asks the user to enter their name in a prompt. LIRI then asks to make a sel
 
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-        (Screenshot)
-        ![image](assets\images\Sample_Concert_Search.JPG)
+        ![image](./assets/images/Sample_Concert_Search.JPG)
 
 2. `node liri.js spotify-this-song '<song name here>'`
 
